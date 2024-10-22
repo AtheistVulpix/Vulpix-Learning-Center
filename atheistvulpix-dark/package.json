@@ -1,0 +1,21 @@
+{
+  "name": "atheistvulpix-dark",
+  "displayName": "atheistvulpix_dark",
+  "description": "aesthetic dark pastel ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "atheistvulpix_dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atheistvulpix_dark-color-theme.json"
+      }
+    ]
+  }
+}
